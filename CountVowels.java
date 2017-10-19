@@ -36,7 +36,7 @@ public class CountVowels extends Application {
 		root.setCenter(text);
 		Scene scene = new Scene(root,400,400);
 		primaryStage.setScene(scene);
-		primaryStage.setTitle("Problem 2");
+		primaryStage.setTitle("Count Vowels");
 		primaryStage.show();
 	}
 	
